@@ -1,0 +1,28 @@
+# Caffe-React-Native
+
+## Get Started
+
+install dev dependencies
+
+### `npm install` or `yarn install`
+
+## Then
+
+Run The app
+
+### `npm start`
+
+Runs your app in development mode.
+
+Open it in the [Expo app](https://expo.io) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.
+
+#### `npm run anroid` or `yarn run android`
+
+Like `npm start` / `yarn start`, but also attempts to open your app in the android Simulator if you are on a Laptop or Desktop.  
+
+#### `npm run android` or `yarn run android`
+
+Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
+
+
+# caffe-react-native
